@@ -177,6 +177,7 @@ public class Main {
 			
 			break;
 		default:
+			JOptionPane.showMessageDialog(null, "Por favor, elija una opcion correcta");
 			break;
 			
 		}
